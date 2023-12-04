@@ -1,0 +1,5 @@
+2. De gasit o solutie ca la a doua verificare a triggerului in chat, programul sa nu detecteze seria de mesaje de la a doua scanare
+    - acel while si apelarea functiei nu este bine gandita
+    
+
+!!! SA NU-TI UITI DATELE DE LA CONTUL INSTITUTIONAL SALVATE IN COD !!!
